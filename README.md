@@ -273,7 +273,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Circuit Diagram :
 
-<img width="400" height="500" alt="WhatsApp Image 2026-09-29 at 11 02 54 AM" src="https://github.com/user-attachments/assets/e80270a8-e1a2-4283-98fd-12e17ada95ff" />
+<img width="1041" height="461" alt="image" src="https://github.com/user-attachments/assets/0c0c0d27-f499-4e0d-acc5-88ee12ee9c93" />
+
 
 
  
